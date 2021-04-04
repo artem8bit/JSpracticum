@@ -1,9 +1,5 @@
- function noA(){
+let arar = str => {
+    nums = nums.split (' ');
+
     
-     return   ;
- }
-
-
-
-
-console.log(noA('ahahahahahah'));
+}

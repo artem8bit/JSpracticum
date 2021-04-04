@@ -3,8 +3,8 @@
 
 
 let func = nums => {
-    nums = nums.split (' ');
-    return `${Math.max (...nums)} ${Math.min (...nums)}`;
+    nums = nums.split (' '); // образуем массив
+    return `${Math.max (...nums)} ${Math.min (...nums)}`; // ищем
 
 
 };
