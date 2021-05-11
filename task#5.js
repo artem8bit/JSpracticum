@@ -1,8 +1,9 @@
-let arr = [];
 
-function pinCode(a) {
-    let a = arr.length(4);
-    return a;
-};
+// function validatePIN (pin) {
+//     let pin2 = pin.length(4);
+//     pin2 = pin2.join('');
+//     if (pin2 == pin) return true;
+//     else return false;
+// };
 
-console.log(pinCode(1233));
+// console.log(validatePIN ("1234"));
