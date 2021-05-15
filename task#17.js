@@ -1,4 +1,4 @@
-inLowerCase = (str) =>
+const inLowerCase = (str) =>
   str
     .split("")
     .map((item) =>
